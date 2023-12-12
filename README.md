@@ -1,6 +1,6 @@
-# Zabbix
+# Mage.ai
 
-Configuração e testes do zabbix
+Configuração e testes do mage.ai
 
 
 ## Terraform
@@ -20,6 +20,13 @@ terraform apply
 Obs.:
 
 A imagem instalada do debian via vagrant não é o bullseye e sim buster.
+
+
+
+
+
+
+
 
 Requerimentos:
 
