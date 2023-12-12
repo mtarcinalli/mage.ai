@@ -17,14 +17,6 @@ terraform plan
 terraform apply
 ```
 
-Obs.:
-
-A imagem instalada do debian via vagrant não é o bullseye e sim buster.
-
-
-
-
-
 
 
 
